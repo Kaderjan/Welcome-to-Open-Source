@@ -65,7 +65,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/Kaderjan">
                     <img src="https://avatars.githubusercontent.com/u/126372820?v=4" width="100px;" alt="QOdir G'ulomov"/>
                     <br />
-                    <sub><b>Qodir G'ulomov</b></sub>
+                    <sub><b>Qodir G'ulom0v</b></sub>
                 </a>
             </td>
             <td align="center">
